@@ -1,9 +1,8 @@
-## Olá, me chamo Ricardo 👩‍💻
+## Ricardo França 👩‍💻
 
 - 🔭 Atualmente sou bolsista na Universidade Fluminense e Front-end na <a href="https://conectaai.com/">Conecta.</a>
 - 🌱 Atualmente estou aprendendo NodeJS
-- 💬 Ask me about ...
-
+- 🌐 <a href="https://www.francadeveloper.com/" target="_blank">Meu portfolio</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +17,7 @@
  ##
  
 <div>
- Fale comigo 📫
- <a href = "mailto:ricardomeneeses@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/ricardo-meneses-fran%C3%A7a-944429179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <h3>Fale comigo 📫</h3><br>
+  <a href = "mailto:ricardomeneeses@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-meneses-fran%C3%A7a-944429179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
