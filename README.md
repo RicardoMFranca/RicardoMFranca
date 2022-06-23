@@ -1,4 +1,4 @@
-## Ricardo França 👩‍💻
+## Ricardo França 👨‍💻
 
 - 🔭 Atualmente sou bolsista na Universidade Fluminense e Front-end na <a href="https://conectaai.com/">Conecta.</a>
 - 🌱 Atualmente estou aprendendo NodeJS
