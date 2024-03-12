@@ -2,7 +2,7 @@
 
 👋 Software Developer passionate about turning ideas into amazing visual experiences.
 
-With 5 years of experience in the field, my interest in software development began in 2018 during the course of Information Systems at the Fluminense Federal University.
+With 5 years of experience in the field, my interest in software development began in 2018 during the course of Computer Science at the Fluminense Federal University.
 
 I focus on frontend technologies such as HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, ReactJS, NextJS, React Native. But I also have backend knowledge using NodeJS as the main tool.
 
@@ -22,6 +22,6 @@ I focus on frontend technologies such as HTML, CSS, SASS, Bootstrap, Tailwind, J
  
 <div>
   <h3>Talk to me 📫</h3><br>
-  <a href = "mailto:ricardomeneeses@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-meneses-fran%C3%A7a-944429179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ricardomeneeses@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-meneses-fran%C3%A7a-944429179/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
