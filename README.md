@@ -4,9 +4,9 @@
 
 With 5 years of experience in the field, my interest in software development began in 2018 during the course of Information Systems at the Fluminense Federal University.
 
-I focus on frontend technologies such as HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, ReactJS, NextJS, React Native. But I also have backend knowledge using Ruby on Rails as the main tool.
+I focus on frontend technologies such as HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, ReactJS, NextJS, React Native.
 
-- 🌐 <a href="https://www.francadeveloper.com/" target="blank">My portfolio</a>
+🌐 <a href="https://www.francadeveloper.com/" target="blank">My portfolio</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
