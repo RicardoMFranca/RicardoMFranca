@@ -2,7 +2,7 @@
 
 👋 Software Developer passionate about turning ideas into amazing visual experiences.
 
-With 5 years of experience in the field, my interest in software development began in 2018 during the course of Computer Science at the Fluminense Federal University.
+With 5 years of experience in the field, my interest in software development began in 2018 during the course of Information Systems at the Fluminense Federal University.
 
 I focus on frontend technologies such as HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, ReactJS, NextJS, React Native. But I also have backend knowledge using NodeJS as the main tool.
 
