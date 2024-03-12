@@ -1,4 +1,4 @@
-![image](https://github.com/RicardoMFranca/RicardoMFranca/assets/70002761/0ad2e69b-13f5-442b-859a-873fb323f810)## Ricardo França 👨‍💻
+## Ricardo França 👨‍💻
 
 👋 Software Developer passionate about turning ideas into amazing visual experiences.
 
