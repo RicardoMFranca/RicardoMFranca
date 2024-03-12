@@ -1,7 +1,12 @@
 ## Ricardo França 👨‍💻
 
-- 🔭 Atualmente sou bolsista na Universidade Fluminense e Front-end na <a href="https://conectaai.com/">Conecta.</a>
-- 🌐 <a href="https://www.francadeveloper.com/" target="_blank">Meu portfolio</a>
+👋 Software Developer passionate about turning ideas into amazing visual experiences.
+
+With 5 years of experience in the field, my interest in software development began in 2018 during the course of Computer Science at the Fluminense Federal University.
+
+I focus on frontend technologies such as HTML, CSS, SASS, Bootstrap, Tailwind, Javascript, Typescript, ReactJS, NextJS, React Native. But I also have backend knowledge using NodeJS as the main tool.
+
+- 🌐 <a href="https://www.francadeveloper.com/" target="_blank">My portfolio</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +21,7 @@
  ##
  
 <div>
-  <h3>Fale comigo 📫</h3><br>
+  <h3>Talk to me 📫</h3><br>
   <a href = "mailto:ricardomeneeses@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-meneses-fran%C3%A7a-944429179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
